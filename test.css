@@ -1,0 +1,110 @@
+
+/* title and nav sections */
+.nav-bar {
+background-color: rgba(242, 240, 236, 0.918);
+padding: 40px;
+}
+
+.nav-bar-links {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-decoration: none;
+    margin: 8px; 
+}
+
+/* The nav bar James Clear  */
+#James-clear {
+    font-size: 19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 150px;
+}
+
+/* The title of the entire story  */
+.main-header {
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#written-by {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    opacity: 0.5;
+    font-size: 18px;
+}
+
+/* James Clear | Creativity, Productivity */
+.author {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    color: gray;
+}
+
+/* figure out how to make hr line strech across whole page */
+.hr-line {
+    border-color: rgb(253, 255, 231);
+    margin: 10px;
+    opacity: 0.5;
+}
+
+/* Main body section here */
+
+body {
+    font-size: 18px;
+    background-color: rgb(255, 253, 251);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* THE BIG N TO START STORY OFF */
+#N {
+    color: black;
+    font-size: 60px;
+}
+
+/* anchor tags */
+.a-tags {
+    color: black;
+    text-decoration: underline rgb(194, 194, 194);
+    text-underline-offset: 4px;
+}
+
+/* all h2 elements */
+h2 {
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* a small one in section 3 */
+#one {
+    opacity: 0,8;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+figcaption {
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(111, 111, 111);
+    opacity: 0.9;
+}
+
+/* highlighted quote */
+mark {
+    background-color: rgb(255, 241, 207);
+}
+
+/* input section */
+#newsletter {
+    padding: 11px;
+    border-color: rgb(255, 203, 82);
+}
+
+/* submit button */
+#news-signup {
+    padding: 13px;
+    background-color: rgb(255, 203, 82);
+    border: none;
+}
